@@ -2,7 +2,6 @@
 
 This repository contains interactive sales dashboards built using Power BI. These dashboards provide insights into key performance indicators (KPIs) such as sales, profit, quantity, and discount trends over time. The data spans multiple years and supports filtering for granular analysis.
 
-
 ![Screenshot 2024-12-11 200913](https://github.com/user-attachments/assets/04bdd049-c27b-4503-9ef3-5bcc458d621e)
 
 
