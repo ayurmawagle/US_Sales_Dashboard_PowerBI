@@ -1,8 +1,14 @@
 # Sales-Dashboard-Power-BI
 
+
 This repository contains interactive sales dashboards built using Power BI. These dashboards provide insights into key performance indicators (KPIs) such as sales, profit, quantity, and discount trends over time. The data spans multiple years and supports filtering for granular analysis.
 
+
 ![Screenshot 2024-12-11 200913](https://github.com/user-attachments/assets/04bdd049-c27b-4503-9ef3-5bcc458d621e)
+
+
+
+![Screenshot 2024-12-11 201359](https://github.com/user-attachments/assets/43b82252-9248-4c99-8696-59211e78f5c7)
 
 
 ## Features
@@ -68,12 +74,5 @@ This repository contains interactive sales dashboards built using Power BI. Thes
 - Region: Focus on specific geographical regions.
 
 - Manufacturer: Analyze performance by different manufacturers.
-  
-![Screenshot 2024-12-11 201313](https://github.com/user-attachments/assets/14a9bef1-65fb-49e4-b303-33c879c2d9eb)
-
-![Screenshot 2024-12-11 201359](https://github.com/user-attachments/assets/43b82252-9248-4c99-8696-59211e78f5c7)
-
-![Screenshot 2024-12-11 201013](https://github.com/user-attachments/assets/eb0767ad-6c9d-4ef0-9db0-1d517fb57bb8)
-
 
 
