@@ -1,6 +1,7 @@
 # Sales-Dashboard-Power-BI
 
-#### This repository contains interactive sales dashboards built using Power BI. These dashboards provide actionable insights into key performance indicators (KPIs) such as sales, profit, quantity, and discount trends over time. The data spans multiple years, enabling detailed and dynamic analysis.
+#### This repository contains interactive sales dashboards built using Power BI. The dashboard uses RWFD from a fictitious company based in the United States to generate these insights.
+#### This dashboard provides actionable insights into key performance indicators (KPIs) such as sales, profit, quantity, and discount trends over time. The data spans multiple years, enabling detailed and dynamic analysis.
 
 ![Screenshot 2025-01-21 121501](https://github.com/user-attachments/assets/5a7f162f-7159-4cf5-9d7e-3ecec0d60094)
 
@@ -44,19 +45,16 @@
 
 The dashboard includes several filtering options for a customized analysis experience:
 
-Year: Switch between different years (2019-2022).
+- Year: Switch between different years (2019-2022).
 
-Region: Focus on specific geographical regions.
+- Region: Focus on specific geographical regions.
 
-Order Priority: Analyze data by order priority levels.
+- Order Priority: Analyze data by order priority levels.
 
-Ship Mode: Filter by shipping modes.
+- Ship Mode: Filter by shipping modes.
 
-Segmentation: Drill into customer segments.
+- Segmentation: Drill into customer segments.
 
-Product Category: Narrow down by product categories.
+- Product Category: Narrow down by product categories.
 
-Sub-Category: Focus on specific product sub-categories.
-
-Manufacturer: Analyze performance by different manufacturers.
-
+- Sub-Category: Focus on specific product sub-categories.
