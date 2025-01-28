@@ -24,7 +24,7 @@
 - Sales Overview: Displays total sales and growth percentage compared to the previous year.
 
 - Quantity Trend: Tracks units sold with year-over-year (YoY) percentage growth.
-
+ 
 ### Order Trend Analysis
 
 - Tracks order counts over time to highlight patterns and seasonality.
