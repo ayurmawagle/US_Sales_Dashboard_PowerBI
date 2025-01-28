@@ -6,7 +6,7 @@
 ![Screenshot 2025-01-21 121501](https://github.com/user-attachments/assets/5a7f162f-7159-4cf5-9d7e-3ecec0d60094)
 
 ## Features
-
+ 
 ### Key Performance Indicators (KPIs)
 
 - Sales: Total sales with last year (LY) value and YoY change.
