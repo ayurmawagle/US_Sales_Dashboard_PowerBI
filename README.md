@@ -1,7 +1,7 @@
 # Sales-Dashboard-Power-BI
 
 #### This repository contains interactive sales dashboards built using Power BI. The dashboard uses RWFD from a fictitious company based in the United States to generate these insights.
-#### This dashboard provides actionable insights into key performance indicators (KPIs) such as sales, profit, quantity, and discount trends over time. The data spans multiple years, enabling detailed and dynamic analysis.
+#### This dashboard provides actionable insights into key performance indicators (KPIs) such as sales, profit, quantity, and discount trends over time. The data spans multiple years, enabling detailed and dynamic analysis. 
 
 ![Screenshot 2025-01-21 121501](https://github.com/user-attachments/assets/5a7f162f-7159-4cf5-9d7e-3ecec0d60094)
 
